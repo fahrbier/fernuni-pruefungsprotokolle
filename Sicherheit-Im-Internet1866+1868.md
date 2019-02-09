@@ -112,6 +112,13 @@ Nenne 3 einfache Anonymisierungstechnicken.
 > * ?
 > * ?
 
+Nachteile der oben genannten und was ein Mix besser/anders macht. Und mithilfe welcher Methoden.
+
+> Loesungsvorschlag:
+
+Drei Unterschiede zwischen Mix-Kaskade und Tor-Circuit.
+
+> Loesungsvorschlag:
 
 
 
