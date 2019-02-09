@@ -9,24 +9,24 @@
 Nenne 3 Angriffsziele.
 
 > Loesungsvorschlag:
-> Uebertragungsweg
-> Daten
-> System / Rechner
+> * Uebertragungsweg
+> * Daten
+> * System / Rechner
 
 Nenne Unterscheidungskriterien fuer Bedrohungen
 
 > Loesungsvorschlag:
-> aktiv/passiv
-> technisch/nicht technisch
-> absichtlich/nicht absichtlich
+> * aktiv/passiv
+> * technisch/nicht technisch
+> * absichtlich/nicht absichtlich
 
 Nenne schuetzenswerte Eigenschaften eines Systems
 
 > Loesungsvorschlag:
-> Integritaet
-> Vertraulichkeit
-> Zuverlaessigkeit
-> Authentizitaet
+> * Integritaet
+> * Vertraulichkeit
+> * Zuverlaessigkeit
+> * Authentizitaet
 
 Ein Dokument wird von einem FernUni-Mitarbeiter in Büro A zu einem Mitarbeiter in Büro B desselben Gebäudes per E-Mail geschickt. Auch der Mail-Server befindet sich in diesem Gebäude. Ist die Vertraulichkeit des Dokuments beim Transport hiermit bereits sichergestellt, d.h. kann auf eine Verschlüsselung verzichtet werden? Begründen Sie Ihre Antwort.
 
@@ -79,9 +79,16 @@ Wieviele Clients und wieviele Server gibt es.
 
 ### Voip
 Was ist re-keying?
+> Loesungsvorschlag: 
 > Vom Masterkey einen neuen Session-Key generieren bei SRTP.
 
-Was ist ein Media Server?
+Was ist ein Media Gateway?
+> Loesungsvorschlag: 
+> Uebergang vom klassischen Telefonnetz zum VoIP-Netz
+
+Telefonnummern-Umsetzung von +49123456789 zu...
+> Loesungsvorschlag: 
+> ... 9.8.7.6.5.4.3.2.1.9.4.e164.arpa
 
 ### PGP
 Warum hybrides Verfahren und wie wird der Schluessel und die Nachricht uebermittelt?
@@ -101,9 +108,9 @@ Wie ist eine Sicherheitsstufe bei Bell-La-Padula definiert?
 
 Nenne 3 einfache Anonymisierungstechnicken.
 
-> Proxy
-> ?
-> ?
+> * Proxy
+> * ?
+> * ?
 
 
 
