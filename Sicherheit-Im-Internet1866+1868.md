@@ -1,27 +1,27 @@
+# Gedaechtnisprotokoll der Klausur vom 9. Februar 2019
 
 
+## Aufgabe 1
+## Aufgabe 2
+## Aufgabe 3
+## Aufgabe 4
+## Aufgabe 5
 
-# Aufgabe 1
-# Aufgabe 2
-# Aufgabe 3
-# Aufgabe 4
-# Aufgabe 5
-
-## Paketfiltergedoens
+### Paketfiltergedoens
 
 Tabelle mit Regeln und Ja/Nein Ankreuzfragen.
 
 Neue Regeln dazu um neue Routen zu definieren.
 
-# Aufgabe 6
-# Aufgabe 7
-# Aufgabe 8
-# Aufgabe 9
+## Aufgabe 6
+## Aufgabe 7
+## Aufgabe 8
+## Aufgabe 9
 
 
-# Aufgabe 10
+## Aufgabe 10
 
-## WEP (eigentlich ja eine Matheaufgabe)
+### WEP (eigentlich ja eine Matheaufgabe)
 WEP Verschluesselung IV 11bit lang bekannt, 7bit vom WEP Schluessel auch bekannt.
 Angreifer kann in 45 Minuten den WEP Schluessel knacken.
 Der Angreifer schafft pro Minute 4^(3x+2) Schluessel zu testen.
@@ -31,9 +31,9 @@ Welcher Wert ist x?
 > Loesungsvorschlag (ich habe keinen)
 
 
-# Unsortierte Fragen, Aufgabenzuordnung vergessen
+## Unsortierte Fragen, Aufgabenzuordnung vergessen
 
-## Kerberos
+### Kerberos
 Kerberossystem mit 123 Schluesseln, 3x Clients und y Servern. 1 Ticket is ausgestellt, 60 = x + y.
 Wieviele Clients und wieviele Server gibt es.
 > Loesungsvorschlag:
@@ -46,17 +46,17 @@ Wieviele Clients und wieviele Server gibt es.
 > 
 > Das heisst 93 Clients und 29 Server.
 
-## Voip
+### Voip
 Was ist re-keying?
 > Vom Masterkey einen neuen Session-Key generieren bei SRTP.
 Was ist ein Media Server?
 
-## PGP
+### PGP
 Was bedeutet hybrides Verfahren und wie wird der Schluessel und die Nachricht uebermittelt?
 
 Wie funktioniert signieren bei PGP?
 
-## Zugriffskontrolle Nutzerauth
+### Zugriffskontrolle Nutzerauth
 
 Welches Schutzziel Biba Modell?
 > Loesungsvorschlag: Integritaet
