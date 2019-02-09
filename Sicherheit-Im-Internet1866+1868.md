@@ -121,7 +121,23 @@ Drei Unterschiede zwischen Mix-Kaskade und Tor-Circuit.
 > Loesungsvorschlag:
 
 
+### RSA
 
+p = 11 und q = 3, e = 7 ... finde d durch probieren
+> e * d mod (q-1)(p-1) = 1
+> d = 3
+
+Warum darf e nicht 5 sein?
+> muss teilerfremd zu (q-1)(p-1) sein.
+
+welche Probleme gibt es, wenn e = 19 (Hinweis: 19 mod 20 = -1)
+> ?
+
+### Wahr-Falsch Fragen
+
+Befehl: ps -elf  Gibt das Infos über Festplatte, Partitionierung...?
+
+Bei Anruf aus klassischem Telefonnetz: ist DNS-Spoofing möglich?
 
 
 
