@@ -2,6 +2,9 @@
 
 
 ## Aufgabe 1
+
+Wahr-Falsch-Fragen
+
 ## Aufgabe 2
 
 [War genau die gleiche Aufgabe wie SS16 Aufgabe 1](https://vu.fernuni-hagen.de/lvuweb/lvuauth/file/FeU/Informatik/2018WS/01868/material/ungetaktet/PK+635021+SS16.pdf)
@@ -95,7 +98,11 @@ Warum hybrides Verfahren und wie wird der Schluessel und die Nachricht uebermitt
 
 Wie funktioniert signieren bei PGP?
 
+Was ist der Vorteil an hybriden Verfahren, wenn man eine Nachricht an mehrere Empfänger schicken möchte?
+
 ### Zugriffskontrolle Nutzerauth
+
+Vor- und Nachteile von ACLs und Capabilities
 
 Welches Schutzziel Biba Modell?
 > Loesungsvorschlag: Integritaet
@@ -109,8 +116,8 @@ Wie ist eine Sicherheitsstufe bei Bell-La-Padula definiert?
 Nenne 3 einfache Anonymisierungstechnicken.
 
 > * Proxy
-> * ?
-> * ?
+> * Tor
+> * Mixes
 
 Nachteile der oben genannten und was ein Mix besser/anders macht. Und mithilfe welcher Methoden.
 
